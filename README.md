@@ -33,6 +33,6 @@ population types.
 -Random sample of the dataset of 500 mushrooms to get the total number of mushrooms for each unique cap color
 
 # Data Visualization
-
+![alt text](https://github.com/dmonca63/DataProject3/blob/master/Number1.png)
 
 
