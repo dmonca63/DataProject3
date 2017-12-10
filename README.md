@@ -16,8 +16,8 @@ to be able to understand it. It included the different characteristics of mushro
 color or cap size etc..) one can identify whether they are poisonous or not and consequently to know whether they are edible or not.
 
 # Modules used
-* numpy as np
-* pandas as pd
+* numpy as np (for linear algebra)
+* pandas as pd (for data processing)
 * matplotlib.pyplot as plt
 * from subprocess import check_output
 
