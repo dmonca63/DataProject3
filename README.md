@@ -1,6 +1,6 @@
 # Data Visualization Project3 - Mushrooms Analysis
 
-#About the author
+# About the author
 Dayana Moncada, graduate student candidate for a MS in Data Science at Mercyhurst University in Erie, Pennsylvania. 
 Email: dmonca63@lakers.mercyhurst.edu
 
