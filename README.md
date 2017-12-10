@@ -15,24 +15,29 @@ familiar with the dataset was by downloading the dataset to my laptop and even t
 to be able to understand it. It included the different characteristics of mushrooms and by knowing the characteristics (whether it is
 color or cap size etc..) one can identify whether they are poisonous or not and consequently to know whether they are edible or not.
 
+# Modules used
+* numpy as np
+* pandas as pd
+* matplotlib.pyplot as plt
+* from subprocess import check_output
+
+
 # About the Data - Content
 1. Readme file
-
 2. Jupyter notebook including 
--Two features of classification of mushrooms (odor and cap color of mushrooms)
--Statistical analysis
--The assignment of numerical values to the letter values in order to feed logistic regression
-
+* Two features of classification of mushrooms (odor and cap color of mushrooms)
+* Statistical analysis
+* The assignment of numerical values to the letter values in order to feed logistic regression
 3. Graphs
--Bar Chart visualizing the number of mushrooms for each cap color category
--Bar chart visualizing the amount of mushrooms that are edible or poisonous based on cap-color
--Bar chart visualizing the number of mushrooms based on odor
--Bar plot of mushrooms which are edible/poisonous based on odor
--Pie chart showing the type of mushroom population and a double pie chart showing edibles and poisonous percentages of mushroom
+* Bar Chart visualizing the number of mushrooms for each cap color category
+* Bar chart visualizing the amount of mushrooms that are edible or poisonous based on cap-color
+* Bar chart visualizing the number of mushrooms based on odor
+* Bar plot of mushrooms which are edible/poisonous based on odor
+* Pie chart showing the type of mushroom population and a double pie chart showing edibles and poisonous percentages of mushroom
 population types.
--Pie chart showing the mushroom habitat percentage 
--Double pie chart showing the edible and poisonous mushroom habitat type percentage. 
--Random sample of the dataset of 500 mushrooms to get the total number of mushrooms for each unique cap color
+* Pie chart showing the mushroom habitat percentage 
+* Double pie chart showing the edible and poisonous mushroom habitat type percentage. 
+* Random sample of the dataset of 500 mushrooms to get the total number of mushrooms for each unique cap color
 
 # Data Visualization
 ![alt text](https://github.com/dmonca63/DataProject3/blob/master/Number1.png)
