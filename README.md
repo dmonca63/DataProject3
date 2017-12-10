@@ -17,10 +17,12 @@ color or cap size etc..) one can identify whether they are poisonous or not and 
 
 # About the Data - Content
 1. Readme file
+
 2. Jupyter notebook including 
 -Two features of classification of mushrooms (odor and cap color of mushrooms)
 -Statistical analysis
 -The assignment of numerical values to the letter values in order to feed logistic regression
+
 3. Graphs
 -Bar Chart visualizing the number of mushrooms for each cap color category
 -Bar chart visualizing the amount of mushrooms that are edible or poisonous based on cap-color
