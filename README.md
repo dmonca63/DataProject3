@@ -35,4 +35,20 @@ population types.
 # Data Visualization
 ![alt text](https://github.com/dmonca63/DataProject3/blob/master/Number1.png)
 
+![alt text](https://github.com/dmonca63/DataProject3/blob/master/Number2.png)
 
+![alt text](https://github.com/dmonca63/DataProject3/blob/master/Number3.png)
+
+![alt text](https://github.com/dmonca63/DataProject3/blob/master/Number4.png)
+
+![alt text](https://github.com/dmonca63/DataProject3/blob/master/Number5.png)
+
+![alt text](https://github.com/dmonca63/DataProject3/blob/master/Number6.png)
+
+![alt text](https://github.com/dmonca63/DataProject3/blob/master/Number7.png)
+
+![alt text](https://github.com/dmonca63/DataProject3/blob/master/Number8.png)
+
+# Conclusion
+For this project I encountered the challenge of the double pie charts. I've never done it before and it was a good learning experience I 
+look forward to learning more about it in the future. An improvement to this dataset could be running more analysis about other charateristics of mushrooms besides odor and/or color.
